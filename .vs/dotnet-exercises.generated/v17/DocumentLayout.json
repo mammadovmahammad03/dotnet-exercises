@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92916FEC-B0A7-4DDC-AF0B-0AF0FF7E1715}|markdown\\Markdown.csproj|c:\\users\\hajii\\downloads\\dotnet-exercises\\markdown\\markdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92916FEC-B0A7-4DDC-AF0B-0AF0FF7E1715}|markdown\\Markdown.csproj|solutionrelative:markdown\\markdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEF119A-70F9-4888-9453-1FA225C5ABAA}|circular-buffer\\CircularBuffer.csproj|c:\\users\\hajii\\downloads\\dotnet-exercises\\circular-buffer\\circularbuffertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF119A-70F9-4888-9453-1FA225C5ABAA}|circular-buffer\\CircularBuffer.csproj|solutionrelative:circular-buffer\\circularbuffertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92916FEC-B0A7-4DDC-AF0B-0AF0FF7E1715}|markdown\\Markdown.csproj|c:\\users\\hajii\\downloads\\dotnet-exercises\\markdown\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{92916FEC-B0A7-4DDC-AF0B-0AF0FF7E1715}|markdown\\Markdown.csproj|solutionrelative:markdown\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92916FEC-B0A7-4DDC-AF0B-0AF0FF7E1715}|markdown\\Markdown.csproj|c:\\users\\hajii\\downloads\\dotnet-exercises\\markdown\\markdowntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92916FEC-B0A7-4DDC-AF0B-0AF0FF7E1715}|markdown\\Markdown.csproj|solutionrelative:markdown\\markdowntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEF119A-70F9-4888-9453-1FA225C5ABAA}|circular-buffer\\CircularBuffer.csproj|c:\\users\\hajii\\downloads\\dotnet-exercises\\circular-buffer\\circularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF119A-70F9-4888-9453-1FA225C5ABAA}|circular-buffer\\CircularBuffer.csproj|solutionrelative:circular-buffer\\circularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\markdown\\README.md",
+              "RelativeDocumentMoniker": "markdown\\README.md",
+              "ToolTip": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\markdown\\README.md",
+              "RelativeToolTip": "markdown\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-30T11:52:53.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarkdownTests.cs",
+              "DocumentMoniker": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\markdown\\MarkdownTests.cs",
+              "RelativeDocumentMoniker": "markdown\\MarkdownTests.cs",
+              "ToolTip": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\markdown\\MarkdownTests.cs",
+              "RelativeToolTip": "markdown\\MarkdownTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:05:53.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Markdown.cs",
+              "DocumentMoniker": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\markdown\\Markdown.cs",
+              "RelativeDocumentMoniker": "markdown\\Markdown.cs",
+              "ToolTip": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\markdown\\Markdown.cs",
+              "RelativeToolTip": "markdown\\Markdown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:05:51.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CircularBufferTests.cs",
+              "DocumentMoniker": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\circular-buffer\\CircularBufferTests.cs",
+              "RelativeDocumentMoniker": "circular-buffer\\CircularBufferTests.cs",
+              "ToolTip": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\circular-buffer\\CircularBufferTests.cs",
+              "RelativeToolTip": "circular-buffer\\CircularBufferTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:05:41.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircularBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\circular-buffer\\CircularBuffer.cs",
+              "RelativeDocumentMoniker": "circular-buffer\\CircularBuffer.cs",
+              "ToolTip": "C:\\Users\\hajii\\Downloads\\dotnet-exercises\\circular-buffer\\CircularBuffer.cs",
+              "RelativeToolTip": "circular-buffer\\CircularBuffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:05:37.122Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
